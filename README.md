@@ -22,7 +22,7 @@
 
  
 <div align="center"> 
-  <a href="chayanhati2004@gmail.com">
+  <a href="mailto:chayanhati2004@gmail.com" title="Send me an email">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   
