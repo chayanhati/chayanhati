@@ -51,7 +51,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chayanhati&count_private=true&theme=react&border_radius=15" alt="streak stats"/>
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=chayanhati&show_icons=true&theme=react" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=chayanhati&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15%22%20alt=%22readme%20stats" alt="readme stats" />
   <br/>
 </div>
 
