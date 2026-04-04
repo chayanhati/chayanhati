@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=chayanhati.chayanhati"/>
 <br/>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Chayan+Hati!;+Aspiring+Full+Stack+Developer;+Building+Projects+🚀;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Chayan+Hati!;+Aspiring+Full+Stack+JavaScript+Developer;+Building+Projects+🚀;" />
 </h1>
 
 <h3 align="center">A passionate software developer</h3>
