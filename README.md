@@ -33,9 +33,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://github.com/chayanhati" target="_blank">
-     <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://portfolio-a919b.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" />
+</a>
 </div>
 
  <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
